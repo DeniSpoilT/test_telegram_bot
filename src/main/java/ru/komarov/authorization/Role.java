@@ -1,2 +1,5 @@
-package ru.komarov.authorization;public enum Role {
+package ru.komarov.authorization;
+
+public enum Role {
+    SUPERVISOR, ADMIN, USER
 }
